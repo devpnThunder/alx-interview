@@ -1,0 +1,1 @@
+NQueens directory readme file
